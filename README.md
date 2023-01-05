@@ -1,5 +1,7 @@
 # homeassistant 自定义UI 代码示例
 
+
+```
 type: picture-elements
 image: /local/xxx/背景图
 elements:
@@ -45,5 +47,5 @@ elements:
     style:
       top: 77%
       left: 84%
-
+ 
   
